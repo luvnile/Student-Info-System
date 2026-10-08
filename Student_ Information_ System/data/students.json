@@ -1,0 +1,11 @@
+[
+    {
+        "student_id": "STU001",
+        "name": "Nile Rkives",
+        "email": "lomabaoelline003@gmail.com",
+        "course": "BSIT",
+        "year_level": "3",
+        "created_at": "2026-10-08T19:44:36+08:00",
+        "updated_at": "2026-10-08T19:44:36+08:00"
+    }
+]

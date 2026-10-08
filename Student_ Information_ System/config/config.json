@@ -1,0 +1,11 @@
+{
+    "data": {
+        "students_file": "data/students.json"
+    },
+    "logging": {
+        "log_file": "logs/app.log"
+    },
+    "export": {
+        "output_file": "data/students_export.json"
+    }
+}
